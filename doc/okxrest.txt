@@ -1,0 +1,7 @@
+合约价格:
+https://www.okx.com/api/v5/market/tickers?instType=FUTURES&uly=BTC-USD
+价格指数:
+https://www.okx.com/api/v5/market/index-tickers?instId=BTC-USD
+ip:18.167.190.198
+ip:104.18.33.32
+IP:16.162.249.163
